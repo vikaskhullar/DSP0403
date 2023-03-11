@@ -323,7 +323,3 @@ l1=list(range(50, 150))
 plt.hist(n_arr, bins = l1 ) 
 plt.title("histogram") 
 plt.show()
-
-
-
-
